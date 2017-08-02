@@ -1,0 +1,98 @@
+/* Invoices table */
+.gp-invoice-items-table {
+	width: 100%;
+	border-top:1px solid #e5eff8;
+	border-right:1px solid #e5eff8;
+	margin:1em auto;
+	border-collapse:collapse
+}
+
+.gp-invoice-items-table thead th {
+	background:#f4f9fe;
+	text-align:center;
+	font:bold 1.2em/2em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;
+	color:#66a3d3;
+}
+
+.gp-invoice-items-table td {
+	color:#678197;
+	border-bottom:1px solid #e5eff8;
+	border-left:1px solid #e5eff8;
+	padding:.3em 1em;
+	text-align:left;
+}
+
+.gp-invoice-items-table td input {
+	width: 100%;
+}
+.gp-invoice-items-table td.right input{
+	text-align: right;
+}
+
+.gp-invoice-items-table .gp-invoice-table-desc {
+	width: 70%;
+}
+.gp-invoice-items-table .gp-invoice-table-cant {
+	width: 15%;
+}
+.gp-invoice-items-table .gp-invoice-table-price {
+	width: 15%;
+}
+
+/* Budget table */
+.gp-budget-items-table {
+	width: 100%;
+	border-top:1px solid #e5eff8;
+	border-right:1px solid #e5eff8;
+	margin:1em auto;
+	border-collapse:collapse
+}
+
+.gp-budget-items-table thead th {
+	background:#f4f9fe;
+	text-align:center;
+	font:bold 1.2em/2em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;
+	color:#66a3d3;
+}
+
+.gp-budget-items-table td {
+	color:#678197;
+	border-bottom:1px solid #e5eff8;
+	border-left:1px solid #e5eff8;
+	padding:.3em 1em;
+	text-align:left;
+}
+
+.gp-budget-items-table td input {
+	width: 100%;
+}
+.gp-budget-items-table td.right input{
+	text-align: right;
+}
+
+.gp-budget-items-table .gp-budget-table-desc {
+	width: 70%;
+}
+.gp-budget-items-table .gp-budget-table-cant {
+	width: 15%;
+}
+.gp-budget-items-table .gp-budget-table-price {
+	width: 15%;
+}
+
+/* Single Budget */
+.gp-actions input[type=submit] {
+	float:left;
+	margin:0px 5px;
+}
+
+/* Settings */
+.gp-container {
+	background-color: #fff;
+	margin-right: 10px;
+	padding: 5px;
+}
+.gp-container label {
+	min-width: 150px;
+	display: inline-block;
+}

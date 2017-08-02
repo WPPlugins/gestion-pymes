@@ -1,0 +1,415 @@
+# Copyright (C) 2016 Gestion-Pymes
+# This file is distributed under the same license as the Gestion-Pymes package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestion-Pymes 1.3.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gestion-pymes\n"
+"POT-Creation-Date: 2016-12-12 20:42+0100\n"
+"PO-Revision-Date: 2016-12-12 20:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: Antonio Guerrero <aguerrero@hispeed.ch>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: Deutsch\n"
+
+#: core/class-gestion-pymes.php:124
+msgid "Invoice from budget "
+msgstr "Rechnung aus Budget"
+
+#: core/class-gp-pdf-template.php:45 core/class-gp-pdf-template.php:226
+msgid "Customer:"
+msgstr "Kunde:"
+
+#: core/class-gp-pdf-template.php:58 core/class-gp-pdf-template.php:239
+msgid "Name:"
+msgstr "Name:"
+
+#: core/class-gp-pdf-template.php:66 core/class-gp-pdf-template.php:247
+msgid "VAT Number:"
+msgstr "MwSt-Nr:"
+
+#: core/class-gp-pdf-template.php:73 core/class-gp-pdf-template.php:254
+msgid "Address:"
+msgstr "Adresse:"
+
+#: core/class-gp-pdf-template.php:79
+msgid "INVOICE Nº: "
+msgstr "RECHNUNG Nr."
+
+#: core/class-gp-pdf-template.php:81 core/class-gp-pdf-template.php:262
+msgid "Date:"
+msgstr "Datum:"
+
+#: core/class-gp-pdf-template.php:92 core/class-gp-pdf-template.php:273
+msgid "Description"
+msgstr "Beschreibung"
+
+#: core/class-gp-pdf-template.php:93 core/class-gp-pdf-template.php:274
+msgid "QTY"
+msgstr "Arbeiter"
+
+#: core/class-gp-pdf-template.php:94 core/class-gp-pdf-template.php:275
+msgid "Unit price"
+msgstr "Einzelpreis"
+
+#: core/class-gp-pdf-template.php:95 core/class-gp-pdf-template.php:276
+msgid "Line total"
+msgstr "Zwischensumme"
+
+#: core/class-gp-pdf-template.php:112 core/class-gp-pdf-template.php:113
+#: core/class-gp-pdf-template.php:149 core/class-gp-pdf-template.php:154
+#: core/class-gp-pdf-template.php:162 core/class-gp-pdf-template.php:169
+#: core/class-gp-pdf-template.php:293 core/class-gp-pdf-template.php:294
+#: core/class-gp-pdf-template.php:329 core/class-gp-pdf-template.php:334
+#: core/class-gp-pdf-template.php:342 core/class-gp-pdf-template.php:349
+msgid " €"
+msgstr "€"
+
+#: core/class-gp-pdf-template.php:161 core/class-gp-pdf-template.php:341
+#: core/class-post-types.php:318 core/class-post-types.php:444
+msgid "IRPF"
+msgstr "Einkommenssteuer"
+
+#: core/class-gp-pdf-template.php:260
+msgid "BUDGET Nº: "
+msgstr "BUDGET Nr."
+
+#: core/class-post-types.php:31 core/class-post-types.php:74
+#: core/class-post-types.php:315 core/class-post-types.php:441
+msgid "Number"
+msgstr "Nummer"
+
+#: core/class-post-types.php:32 core/class-post-types.php:75
+#: core/class-post-types.php:117
+msgid "Title"
+msgstr "Titel"
+
+#: core/class-post-types.php:33 core/class-post-types.php:76
+#: core/class-post-types.php:319 core/class-post-types.php:445
+#: core/class-post-types.php:806 core/class-post-types.php:808
+msgid "Customer"
+msgstr "Kunde"
+
+#: core/class-post-types.php:34 core/class-post-types.php:77
+#: core/class-post-types.php:316 core/class-post-types.php:442
+msgid "Date"
+msgstr "Datum"
+
+#: core/class-post-types.php:35 core/class-post-types.php:78
+msgid "Total"
+msgstr "Total"
+
+#: core/class-post-types.php:118 core/class-post-types.php:223
+#: gestion-pymes.php:182
+msgid "Name"
+msgstr "Nachname:"
+
+#: core/class-post-types.php:119 core/class-post-types.php:227
+#: gestion-pymes.php:188
+msgid "Email"
+msgstr "E-Mail"
+
+#: core/class-post-types.php:147
+msgid "Information"
+msgstr "Information"
+
+#: core/class-post-types.php:152 core/class-post-types.php:842
+#: core/class-post-types.php:844
+msgid "Invoices"
+msgstr "Rechnungen"
+
+#: core/class-post-types.php:159 core/class-post-types.php:878
+#: core/class-post-types.php:880
+msgid "Budgets"
+msgstr "Budgets"
+
+#: core/class-post-types.php:169 core/class-post-types.php:189
+msgid "General Details"
+msgstr "Generelle Details"
+
+#: core/class-post-types.php:174
+msgid "Invoice items"
+msgstr "Rechnungs Berichte"
+
+#: core/class-post-types.php:179 core/class-post-types.php:199
+msgid "Actions"
+msgstr "Maßnahmen"
+
+#: core/class-post-types.php:194
+msgid "Budget items"
+msgstr "Budget Berichte"
+
+#: core/class-post-types.php:224
+msgid "Surname"
+msgstr "Vorname"
+
+#: core/class-post-types.php:225 gestion-pymes.php:185
+msgid "VAT number"
+msgstr "MwSt-Nr."
+
+#: core/class-post-types.php:226
+msgid "Telephone"
+msgstr "Telefonnummer"
+
+#: core/class-post-types.php:228 gestion-pymes.php:194
+msgid "Address"
+msgstr "Adresse"
+
+#: core/class-post-types.php:296 core/class-post-types.php:422
+msgid "Select one"
+msgstr "Wähle eins"
+
+#: core/class-post-types.php:317 core/class-post-types.php:443
+msgid "TAX"
+msgstr "MWSt"
+
+#: core/class-post-types.php:379 core/class-post-types.php:504
+msgid "Añadir línea"
+msgstr "Linie Hinzufügen"
+
+#: core/class-post-types.php:389 core/class-post-types.php:515
+msgid "Print"
+msgstr "Drucken"
+
+#: core/class-post-types.php:516
+msgid "To Invoice"
+msgstr "In Rechnung stellen"
+
+#: core/class-post-types.php:616
+msgid "invoice-"
+msgstr "Rechnung-"
+
+#: core/class-post-types.php:711
+msgid "budget-"
+msgstr "budget-"
+
+#: core/class-post-types.php:805 core/class-post-types.php:807
+msgid "Customers"
+msgstr "Kunden"
+
+#: core/class-post-types.php:809 core/class-post-types.php:846
+#: core/class-post-types.php:882
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+#: core/class-post-types.php:810
+msgid "Add New Customer"
+msgstr "Neuen Kunden hinzu."
+
+#: core/class-post-types.php:811
+msgid "New Customer"
+msgstr "Neukunde"
+
+#: core/class-post-types.php:812
+msgid "Edit Customer"
+msgstr "Kunden bearbeiten"
+
+#: core/class-post-types.php:813
+msgid "View Customer"
+msgstr "Kunden Anzeigen"
+
+#: core/class-post-types.php:814
+msgid "All Customers"
+msgstr "Alle Kunden"
+
+#: core/class-post-types.php:815
+msgid "Search Customers"
+msgstr "Kunden Suchen"
+
+#: core/class-post-types.php:816
+msgid "Parent Customers:"
+msgstr "Übergeordnete Kunden:"
+
+#: core/class-post-types.php:817
+msgid "No customers found."
+msgstr "Keine kunden gefunden."
+
+#: core/class-post-types.php:818
+msgid "No customers found in Trash."
+msgstr "Keine Kunden im Papierkorb gefunden."
+
+#: core/class-post-types.php:822
+msgid "Customers/clients."
+msgstr "Kunden."
+
+#: core/class-post-types.php:843 core/class-post-types.php:845
+msgid "Invoice"
+msgstr "Rechnung"
+
+#: core/class-post-types.php:847
+msgid "Add New Invoice"
+msgstr "Neue Rechnung hinzufügen"
+
+#: core/class-post-types.php:848
+msgid "New Invoice"
+msgstr "Neue Rechnung"
+
+#: core/class-post-types.php:849
+msgid "Edit Invoice"
+msgstr "Rechnung Bearbeiten"
+
+#: core/class-post-types.php:850
+msgid "View Invoice"
+msgstr "Rechnung Anzeigen"
+
+#: core/class-post-types.php:851
+msgid "All Invoices"
+msgstr "Alle Rechnungen"
+
+#: core/class-post-types.php:852
+msgid "Search Invoices"
+msgstr "Rechnungen Suchen"
+
+#: core/class-post-types.php:853
+msgid "Parent Invoices:"
+msgstr "Übergeordnete Rechnungen:"
+
+#: core/class-post-types.php:854
+msgid "No invoices found."
+msgstr "Keine Rechnungen gefunden."
+
+#: core/class-post-types.php:855
+msgid "No invoices found in Trash."
+msgstr "Keine Rechnungen im Papierkorb gefunden."
+
+#: core/class-post-types.php:859
+msgid "Invoices...."
+msgstr "Rechnungen..."
+
+#: core/class-post-types.php:879 core/class-post-types.php:881
+msgid "Budget"
+msgstr "Budget"
+
+#: core/class-post-types.php:883
+msgid "Add New budget"
+msgstr "Neue Budget hinzufügen"
+
+#: core/class-post-types.php:884
+msgid "New budget"
+msgstr "Neue budget"
+
+#: core/class-post-types.php:885
+msgid "Edit budget"
+msgstr "Budget Bearbeiten"
+
+#: core/class-post-types.php:886
+msgid "View budget"
+msgstr "Budget Anzeigen"
+
+#: core/class-post-types.php:887
+msgid "All Budgets"
+msgstr "Alle Budgets"
+
+#: core/class-post-types.php:888
+msgid "Search Budgets"
+msgstr "Budgets Suchen"
+
+#: core/class-post-types.php:889
+msgid "Parent Budgets:"
+msgstr "Übergeordnete Budgets:"
+
+#: core/class-post-types.php:890
+msgid "No budgets found."
+msgstr "Keine Budgets gefunden."
+
+#: core/class-post-types.php:891
+msgid "No budgets found in Trash."
+msgstr "Keine Budgets im Papierkorb gefunden."
+
+#: core/class-post-types.php:895
+msgid "Budgets ...."
+msgstr "Budgets ..."
+
+#: gestion-pymes.php:113 gestion-pymes.php:114
+msgid "Gestion-Pymes"
+msgstr "ETW-Rechnungen"
+
+#: gestion-pymes.php:167
+msgid "Gestion Pymes"
+msgstr "ETW Rechnungen"
+
+#: gestion-pymes.php:171
+msgid "Company"
+msgstr "Unternehmen"
+
+#: gestion-pymes.php:178
+msgid "Image"
+msgstr "Bild"
+
+#: gestion-pymes.php:179
+msgid "Upload Image"
+msgstr "Bild Hochladen"
+
+#: gestion-pymes.php:191
+msgid "Phone"
+msgstr "Telefon"
+
+#: gestion-pymes.php:201
+msgid "VAT"
+msgstr "MwSt"
+
+#: gestion-pymes.php:203
+msgid "VAT name"
+msgstr "MwST Name"
+
+#: gestion-pymes.php:206
+msgid "VAT 1 (%)"
+msgstr "MwST 1 (%)"
+
+#: gestion-pymes.php:209
+msgid "VAT 2 (%)"
+msgstr "MwST 2 (%)"
+
+#: gestion-pymes.php:212
+msgid "VAT 3 (%)"
+msgstr "MwST 3 (%)"
+
+#: gestion-pymes.php:219
+msgid "PDF templates"
+msgstr ""
+
+#: gestion-pymes.php:221
+msgid "Invoice footer"
+msgstr ""
+
+#: gestion-pymes.php:225
+msgid "Budget footer"
+msgstr ""
+
+#: gestion-pymes.php:236
+msgid "Save"
+msgstr "Speichern"
+
+#~ msgid "Tlf:"
+#~ msgstr "Tel:"
+
+#~ msgid "Dirección:"
+#~ msgstr "Adresse:"
+
+#~ msgid "Descripción"
+#~ msgstr "Beschreibung"
+
+#~ msgid "Cantidad"
+#~ msgstr "Anz. Personen"
+
+#~ msgid "Precio"
+#~ msgstr "Preis"
+
+#~ msgid "Concepto"
+#~ msgstr "Beschreibung"
+
+#~ msgid "http://www.eggemplo.com"
+#~ msgstr "http://www.eggemplo.com"
+
+#~ msgid "SME management"
+#~ msgstr "SME management"
+
+#~ msgid "gestion-pymes"
+#~ msgstr "gestion-pymes"
+
+#~ msgid "http://www.gestion-pymes.com"
+#~ msgstr "http://www.gestion-pymes.com"
